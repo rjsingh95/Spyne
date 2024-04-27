@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_green">#409CAC</color>
+    <color name="saved">#00FF00</color>
+    <color name="uploaded">#0000FF</color>
+    <color name="uploading">#FFFF00</color>
+    <color name="resume">#FF0000</color>
+    <color name="f2f2f2">#f2f2f2</color>
+
+
+</resources>

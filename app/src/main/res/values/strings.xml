@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spyne</string>
+    <string name="waiting_for_upload">Waiting for upload</string>
+</resources>
